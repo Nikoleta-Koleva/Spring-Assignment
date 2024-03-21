@@ -1,6 +1,6 @@
 Spring-Assignment
 
-Assignment related to beans, autowiring and dependency injection
+Assignment related to beans, autowiring and dependency injection. Goal is to be able to change between two types of tyres and speakers using Spring beans and Primary annotation.
 
 Beans:
 - Person Bean has a dependency on Vehicle Bean
